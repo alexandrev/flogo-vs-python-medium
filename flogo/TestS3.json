@@ -128,7 +128,7 @@
                                                 "name": "Access ID",
                                                 "visible": true
                                             },
-                                            "value": "AKIAQGP37I3C4DRDJT7G"
+                                            "value": "xxxxxxxxxxxxxxxxxxxxxxxx"
                                         },
                                         {
                                             "name": "secretKey",
@@ -139,7 +139,7 @@
                                                 "visible": true,
                                                 "type": "password"
                                             },
-                                            "value": "SECRET:bSWQhEff1spvFrqLMaoi5ORFJYR73WjLTOyUJzCfEjAzgP5Bt7pxzrPclnL0WzXv8rq/czeCXGo="
+                                            "value": "SECRET:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
                                         },
                                         {
                                             "name": "LAMBDA_CONNECTION_INFO",
